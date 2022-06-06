@@ -104,6 +104,8 @@ That said, the app has very limited error handling and testing capabilities, and
 
 Additionally, it may be noted this "chat" is not realtime, but a series of writes to and reads from a database containing the connection between users. This was done as a way to maintain REST-fulness, however for a truly real-time chat, a websocket connection would have been more appropriate.
 
-#Afterword
+# Afterword
+
 This was a fun and challenging project given the scope and timeframe. Thank you for your time.
+
 thayers28
